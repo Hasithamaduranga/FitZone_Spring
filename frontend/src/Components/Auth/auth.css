@@ -1,0 +1,83 @@
+.bglog {
+  height: 100vh;
+  background-size: cover;
+  background-image: url(./Login/img/rbk.png);
+}
+.bgreg {
+  height: 100vh;
+  background-size: cover;
+  background-image: url(./Register/img/logbk.jpg);
+}
+.form_suth {
+  background-color: white;
+  width: 450px;
+  border-radius: 4px;
+  padding: 20px;
+}
+.log_name {
+  font-size: 40px;
+  text-align: center;
+}
+.pdn_bb {
+  padding: 25px 12%;
+}
+.rightbox_auth {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  height: 70vh;
+}
+.frominput_auth {
+  width: 100%;
+  margin: 8px 0;
+  padding: 3px 10px;
+  font-size: 15px;
+}
+.btnbtnlog {
+  margin: 0 auto;
+  display: flex;
+  font-weight: bold;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 20px;
+  cursor: pointer;
+  border: 2px solid #f87f22;
+  background-color: #f87f22;
+}
+.form_lable_auth {
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: bold;
+}
+.noacc {
+  margin: 8px 0 0 0;
+  text-transform: capitalize;
+  text-align: center;
+}
+.goglbtn {
+  text-align: center;
+  margin: 20px 0;
+  cursor: pointer;
+
+  width: 100%;
+}
+.btng {
+  text-align: center;
+  border: 2px solid #f87f22;
+  cursor: pointer;
+}
+.lk {
+  margin-left: 8px;
+}
+.post_box_new {
+  height: 100vh;
+  display: flex;
+
+}
+.new_bkkk{
+  margin-top: 100px;
+}
+.vvv{
+  color: white;
+}

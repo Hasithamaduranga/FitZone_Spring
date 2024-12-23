@@ -1,0 +1,33 @@
+.sidd_bar_main {
+  height: 95vh;
+  margin-top: 58px;
+  display: block;
+  position: fixed;
+  background-color: #151515;
+  width: 280px;
+}
+.sidebar_menu_one {
+  color: white;
+  margin-bottom: 10px;
+  gap: 10px;
+  margin-left: 10px;
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  font-weight: bold;
+  font-size: 25px;
+}
+.sidebar_menu_one:hover {
+  color: #f87f22;
+}
+.firstbox {
+  margin-top: 20px;
+
+  border-radius: 8px;
+  padding: 25px;
+}
+.logoside {
+  position: absolute;
+  bottom: 0;
+  width: 270px;
+}

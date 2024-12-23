@@ -1,0 +1,45 @@
+.workoutstatus_home {
+  background-image: url(./img/workout.jpg);
+  height: 89.4vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.details_box {
+  color: white;
+  text-align: end;
+  margin-top: 10px;
+  left: 4%;
+  position: absolute;
+  width: 500px;
+}
+.details_topc {
+  font-size: 70px;
+}
+.details_sub_topc {
+  color: #f87f22;
+  font-size: 85px;
+}
+.para {
+  font-weight: bold;
+  font-size: 25px;
+  text-transform: capitalize;
+  margin-top: 15px;
+}
+.topic_para{
+    color: #f87f22;
+}
+.strtbtn_status {
+    background-color: #f87f22;
+    color: white;
+    font-size: 25px;
+    padding: 8px 25px;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 25px;
+    border: 2px solid #f87f22;
+    font-weight: bold;
+  }
+  .strtbtn_status:hover{
+      background-color: #f87f2200;
+      color: #f87f22;
+  }

@@ -1,0 +1,38 @@
+.logo_new {
+  width: 100px;
+  height: 35px;
+}
+.nav_barhome{
+    position: fixed;
+    display: block;
+    width: 100%;
+}
+.item_nav_bar_new {
+  display: flex;
+  color: white;
+  align-items: center;
+  padding: 10px 2%;
+  background-color: #151515;
+  justify-content: space-between;
+}
+.search_iput {
+  border-radius: 4px;
+  font-size: 17px;
+  padding: 3px 10px;
+  border: 2px solid #717070aa;
+  background-color: #151515;
+  width: 450px;
+}
+.icon_set_nav_bar {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  gap: 10px;
+}
+.icon_set_nav{
+ cursor: pointer;
+}
+.icon_set_nav:hover{
+    color: #f87f22;
+}
